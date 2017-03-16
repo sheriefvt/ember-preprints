@@ -2163,6 +2163,12 @@ ember-load-initializers@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/ember-load-initializers/-/ember-load-initializers-0.5.1.tgz#76e3db23c111dbdcd3ae6f687036bf0b56be0cbe"
 
+ember-markdown-it@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/ember-markdown-it/-/ember-markdown-it-0.0.5.tgz#f2626c4d9bcb869425e484e7135049340eac8465"
+  dependencies:
+    ember-cli-babel "^5.1.7"
+
 ember-metrics@0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/ember-metrics/-/ember-metrics-0.6.3.tgz#9716a4bb68e6e59a6631b9cd5698e75b264b6d30"
